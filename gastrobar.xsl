@@ -19,7 +19,7 @@
 
         <body>
             <header>
-                <img src= "../img/logotipo.png" alt= "Reservas" />
+                <img src= "img/logotipo.png" alt= "Reservas" />
                 <a href="gastrobar.xml">Gastrobar</a>
                 <a href="atracciones.xml">Atracciones</a>
                 <a href="eventos.xml">Eventos</a>
